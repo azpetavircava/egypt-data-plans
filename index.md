@@ -54,3 +54,10 @@ layout: default
 
 　　**最后一个小提醒**：埃及的4G网络其实相当够用了，别太纠结5G。而且，在那些几千年的法老遗迹面前，偶尔放下手机，用心去感受，或许才是更珍贵的“连接”。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Egypt SIM 卡购买与激活指南](https://faciylike.github.io/egypt-sim-guides)
